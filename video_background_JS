@@ -1,0 +1,15 @@
+function Quem_somos(){
+    window.open(src="Quem_somos.html")
+}
+function Noticias(){
+    window.open(src="Noticias.html")
+}
+function Obras(){
+    window.open(src="Obras.html")
+}
+function Parcerias(){
+    window.open(src="Parcerias.html")
+}
+function Fale_conosco(){
+    window.open(src="Fale_conosco.html")
+}
